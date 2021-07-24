@@ -1,4 +1,12 @@
-theme: jekyll-theme-architect
+# Setup
+name:         Geomary Studio 
+tagline:      Design for geometry experts
+baseurl:      ""
+locale:       "en"
 
-title: Geomary Studio
-description: Design for geometry experts
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
